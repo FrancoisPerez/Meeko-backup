@@ -1,4 +1,5 @@
-#Meeko Backup
+# Meeko Backup
+
 [Meeko](http://www.meeko.pro) is a SaaS solution that allows the management of nurseries. This company also provides an iPhone/Android app for 
 parents to review the day of their kids at the nursery.
 
@@ -12,9 +13,12 @@ http://www.charlesproxy.com) on your smartphone.
 $ python main.py [-b BEARER_TOKEN] [-s START_TIMESTAMP] [-e END_TIMESTAMP]
 ```
 
-##Output
+## Output
 This tool will output raw JSON from Meeko's API, each section in a specific folder.
 
-##Upcoming features
+## Upcoming features
 - Invoice export
 - Documents export
+
+## Author
+- François Pérez
